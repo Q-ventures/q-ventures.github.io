@@ -20,6 +20,8 @@ QV founders set the following business principles as guidance:
 - QV defines business attitude as trusted partnership
 - QV works to create future tech leaders with business acumen
 - QV creates economic goal in term of shared prosperity
+- QV business at the core is problem solving using scientific method.
+- QV main assets are its people: engineers and scientists who do business.
 
 ## How To Engage QV
 
